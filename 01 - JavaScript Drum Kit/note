@@ -1,0 +1,4 @@
+1. use document.querySelector to select element
+2. if(!audio) return to prevent from running all audio simultaneously
+3. audio.currentTime = 0 to rewind the playing audo
+4. e.target pinpoint the div with playing class
