@@ -1,0 +1,3 @@
+1. trasnform-origin: 50% 50% means center of the object.
+2. transition-timing-function
+3. since we use the CSS to draw the black line, use transform: rotate(90deg) to place each hand in right place
