@@ -1,0 +1,4 @@
+1. a custom property name that begins with a double hyphen (--)
+2. define custom properties on the :root pseudo-class, so that it can be applied globally across your HTML document
+3. use the custom property value by specifying your custom property name inside the var() function, in place of a regular property value
+4. document.querySelectorAll return NodeList, not array
