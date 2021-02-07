@@ -1,0 +1,13 @@
+1.check the flex related property if not understand.
+example
+      flex: 1 0 auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+2. css selecter
+      *: all elements
+      .A > *: all elements under class A
+3 safari event is different from chrome:
+safari: flex, chrome: flex
+e.propertyName.includes('flex')
+     
