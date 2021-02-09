@@ -1,0 +1,2 @@
+check function or event:
+right click -> break on -> attribute modification
