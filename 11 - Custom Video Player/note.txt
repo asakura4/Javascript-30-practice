@@ -1,0 +1,2 @@
+video was not contain in the repo
+add fullscreen function
